@@ -1,4 +1,4 @@
-### **[School of Computer Science Binus @Semarang]** Code Hub 🎨💻
+### **[Computer Science Binus @Semarang]** Code Hub 🎨💻
 
 Hello from School of Computer Science Binus @Semarang! 👋
 
